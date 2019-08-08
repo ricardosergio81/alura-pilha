@@ -1,1 +1,3 @@
-# alura-pilha
+# Alura Pilha
+
+Projeto para estudar sobre pilhas 
